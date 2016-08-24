@@ -1,7 +1,7 @@
-# Starter Web Repo
+# First level heading
 
-This repository is for showing how Git and GitHub work
+## Introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+## Hor to contribute
