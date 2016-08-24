@@ -1,6 +1,6 @@
 # This is a Web Project
 
-## This project is used for demonstration purpose
+This is a simple Web project for Git Practice 
 
 ## There is no external links
 
