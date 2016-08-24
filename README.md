@@ -1,7 +1,7 @@
-# First level heading
+# This is a Web Project
 
-## Introduction
+## This project is used for demonstration purpose
 
-## Purpose
+## There is no external links
 
-## Hor to contribute
+## To check Google - http://www.google.com
