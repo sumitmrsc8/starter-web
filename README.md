@@ -10,3 +10,6 @@ A few more changes
 ## There is no external links
 
 ## To check Google - http://www.google.com
+
+###Copyright
+Copyright
